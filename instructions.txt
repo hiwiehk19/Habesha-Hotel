@@ -1,0 +1,9 @@
+The 'backend' file is in Habesha-Hotel folder.
+
+The 'fronend' folder holds customer window. 
+
+The 'admin' folder holds admin window. 
+
+
+you have to start the node server , admin , frontend.
+
